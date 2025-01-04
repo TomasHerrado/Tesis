@@ -1,0 +1,25 @@
+.navbar-brand img {
+    height: 40px;
+  }
+  
+  .btn {
+    background-color: #E58339;
+    border: none;
+  }
+  
+  .btn-primary {
+    background-color: #E58339;
+    border: none;
+  }
+  .btn:hover {
+    background-color: #6b2e1a;
+  }
+  
+  .btn-primary:hover {
+    background-color: #6b2e1a;
+  }
+  .navbar {
+    background-color: #ffffff;
+    border: none;
+  }
+  
